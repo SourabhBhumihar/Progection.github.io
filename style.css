@@ -1,0 +1,61 @@
+.header-name{
+  font-family: Arial;
+  font-weight: normal;
+  font-size: 30px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 30px;
+  padding-right: 33px;
+  float: left;
+  color: white;
+}
+
+header{
+  height: 100px;
+  width: 100%;
+background: linear-gradient(to right, rgb(240, 152, 25), rgb(255, 81, 47));
+}
+
+.bar-item:hover{
+  background-color: rgb(240, 152, 25);
+
+}
+
+.header-list{
+  float: right;
+}
+.bar-item{
+  font-family: Arial;
+  font-weight: bold;
+  float:right;
+  padding-top: 32px;
+  padding-bottom: 40px;
+  padding-left: 32px;
+  padding-right: 32px;
+  list-style: none;
+  font-size: 20px;
+  color: white;
+}
+.logo{
+  padding: 200px 200px 200px 300px;
+  width: 100%;
+  float: left;
+}
+.club-name{
+  float: left;
+  padding: 80px 200px 200px 50px;
+  margin-right: 500px;
+  font-size: 20px;
+  font-family: Arial;
+}
+.main-content{
+  padding: 100px 80px;
+}
+.content-item1{
+
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
